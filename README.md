@@ -1,9 +1,7 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de Cintia Díaz González.
 
-**[TU CURSO] · Curso 2026-2027**
-
-[Escribe aquí una frase tuya diciendo qué es esto. Por ejemplo: «Aquí voy dejando lo que
-hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.»]
+**2bach B · Curso 2026-2027**
+Aquí voy a dejar todo lo que hago este curso en TDA.
 
 ---
 
