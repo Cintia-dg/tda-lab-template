@@ -1,6 +1,6 @@
-# TDA Lab de Cintia
+# TDA Lab de Cintia Díaz
 
-2bach B · Curso 2026-2027**
+2bach B · Curso 2026-2027
 
 Aquí voy dejar todo lo que voy haciendo este curso en TDA
 ---
