@@ -27,4 +27,4 @@ En la imagen que hay a continuación podemos ver a Messi celebrando un gol.
 
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/48dc339b-ac8b-43ad-a755-9c7cdbbfd6f8" />
 
-
+Imagen: Autor
