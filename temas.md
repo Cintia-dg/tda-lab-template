@@ -24,7 +24,8 @@ a la educación y a la salud de los niños.
 Messi es uno de los futbolistas más destacados de la historia, es el jugador con más partidos jugados y títulos del FC Barcelona y de la selección Argentina. Ha conseguido un montón de premios como mejor futbolista y también como goleador habiendo marcado en un año un total de 92 goles. Además de sus premios como futbolista también destaca por su gran rendimiento y constancia tanto dentro como fuera del campo y por ser una persona tan solidaria que busca ayudar a otras personas sobre todo a niños a nivel de educación y salud.
 
 En la imagen que hay a continuación podemos ver a Messi celebrando un gol. 
-leo messi.jpg
+
+![](leo messi.jpg)
 
 
 
