@@ -10,7 +10,7 @@ favoritas. Entreno de lunes a viernes unas dos horas y media y los
 findes suelo tener competiciones y entrenos especiales.
 Además también me gusta viajar con mis compañeros y amigos.
 
-
+![imagen](capturas/judo.jpg)
 
 
 Aquí dejo una URL de una página de Github que habla sobre judo:
