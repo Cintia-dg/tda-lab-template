@@ -14,12 +14,12 @@ Además también me gusta viajar con mis compañeros y amigos.
 
 
 Aquí dejo una URL de una página de Github que habla sobre judo:
-https://github.com/pablop-dev05/web_judo
+[](https://github.com/pablop-dev05/web_judo)
 
 ### 28/09 Premios princesa: Leo Messi
 El premiado que he elegido es Leo Messi, lo he escogido porque me gusta el deporte y me parece una persona interesante además por como a pesar de su problema de crecimiento siguió esforzándose y siendo constante para llegar
 hasta donde esta ahora.
-https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/
+[](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/)
 
 Leo Messi ha sido premiado debido a su gran talento en el futbol y su trayectoria deportiva. Y también por ser una persona solidaria que es colaboradora de la fundación UNICEF y por su fundación Leo Messi que busca ayudar
 a la educación y a la salud de los niños.
