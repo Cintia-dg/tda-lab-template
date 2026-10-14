@@ -39,7 +39,7 @@ Se celebra su día para reconocer su gran logro en la historia de la ciencia y l
 
 [Ada Lovelace en mncn](https://www.mncn.csic.es/es/visita-el-mncn/biografia-de-ada-lovelace)
 
-![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+![imagen](capturas/ada_foto.jpg){: width="300"}
 *PIE DE FOTO. Imagen: EL AUTOR, [Wikimedia Commons](DIRECCIÓN DE LA PÁGINA DE LA IMAGEN)*
 
 
