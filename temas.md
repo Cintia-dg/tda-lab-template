@@ -1,7 +1,7 @@
 [← Volver al inicio](README.md)
 # Temas del curso
 ### 16/09 Mis aficiones
-Levo practicando judo desde los seis años, es decir, llevo once años
+Llevo practicando judo desde los seis años, es decir, llevo once años
 en este deporte. Empecé en judo porque iba mi hermana y al final me acabo
 gustando. Hace unos cuatro años me cambie de club y empecé a practicar 
 nuevas disciplinas como sambo, grappling y lucha.
