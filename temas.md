@@ -32,4 +32,15 @@ En la imagen que hay a continuación podemos ver a Messi celebrando un gol.
 ![imagen](capturas/messi.jpg)
 
 
+## 13/10 · Ada Lovelace
+Ada Lovelace nació en Londres en 1815. Era hija de Annabella Milbanke y el poeta Lord Byron. Se separaron cuando ellas apenas tenía un mes. Su madre se obsesionó con que recibiese clases de matemáticas y ciencia para así alejarla lo máximo posible de su herencia poética. Siguió estudiando matemáticas durante gran parte de su vida hasta que tuvo a su tercer hijo y empezó a colaborar con Babbage en la máquina analítica añadiendo anotaciones al texto original e incluyó un algoritmo detallado para calcular los números de Bernoulli. Ada se convirtió en la primera programadora de la historia, según se dice en su biografía publicada por el Museo Nacional de Ciencias Naturales.
+Se celebra su día para reconocer su gran logro en la historia de la ciencia y la tecnología. Se celebra el segundo martes de octubre.
+
+
+[Ada Lovelace en mncn](https://www.mncn.csic.es/es/visita-el-mncn/biografia-de-ada-lovelace)
+
+![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+*PIE DE FOTO. Imagen: EL AUTOR, [Wikimedia Commons](DIRECCIÓN DE LA PÁGINA DE LA IMAGEN)*
+
+
 
