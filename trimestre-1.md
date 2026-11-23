@@ -1,9 +1,10 @@
 [← Volver al inicio](README.md)
 # Primer trimestre
 
-### 27/10 · La red que no funcionaba
+### 14/09 · Laboratorio de Github
 
-- **Aplicación:** Packet Tracer
-- **Entregado:** U1_A5_Red_Lucia.pka
-- **Qué hice:** arreglar una red de cuatro equipos que no se veían entre sí.
+- **Aplicación:** Github
+- **Entregado:** Enlace Github
+- **Qué hice:** crear blog para poner lo que se hace a lo largo del curso.
+  
 
